@@ -4,6 +4,8 @@
 
 layout: home
 ---
+#[The SpokenWeb Anthology](https://hipstas.github.io/spokenweb-anthology/)
+
 **I. Introducing The SpokenWeb Digital Anthology**     
 
 *The SpokenWeb Digital Anthology* showcases audio and video recordings of literary events from archives across Canada to promote new modes of listening to and engaging with these important artifacts. As SpokenWeb “aims to develop coordinated and collaborative approaches to literary historical study,” the anthology does exactly that through a collaborative digital edition of annotated audiovisual recordings from the SpokenWeb collection. Each project in the anthology annotates an artifact in sync with the time of the recording and theorizes new ways of understanding or contextualizing it. These recordings are longer only a canister on a library shelf reserved for scholarly use or one recording among many on an academic library website; the audio and video recordings exhibited in *The SpokenWeb Digital Anthology* are made newly present through the writer, the reader, and the listener’s multimodal annotations. In conversation with one another, each project reframes what is heard, touched, and seen on these recordings.  
