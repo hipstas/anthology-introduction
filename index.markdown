@@ -4,7 +4,7 @@
 
 layout: home
 ---
-#[The SpokenWeb Anthology](https://hipstas.github.io/spokenweb-anthology/)
+# [The SpokenWeb Anthology](https://hipstas.github.io/spokenweb-anthology/)
 
 **I. Introducing The SpokenWeb Digital Anthology**     
 
